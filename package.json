@@ -1,0 +1,13 @@
+{
+    "name": "dummy-app",
+    "version": "1.0.0",
+    "description": "Temporary repository for DigitalOcean deployment setup",
+    "main": "index.js",
+    "scripts": {
+      "start": "echo 'Temporary start script'"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
